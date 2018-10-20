@@ -1,0 +1,14 @@
+.header {
+	color: white;
+	background-color: #D58121;
+}
+#title {
+	font-size: 70px;
+	padding: 30px;
+}
+
+.nav-link {
+	color: white !important;
+	font-size: 30px;
+	margin: 0 40px !important;
+}

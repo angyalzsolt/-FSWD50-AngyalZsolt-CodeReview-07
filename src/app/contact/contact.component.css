@@ -1,0 +1,23 @@
+#title {
+	font-size: 50px;
+	color: #D58121;
+	padding: 20px;
+}
+#title2 {
+	font-size: 35px;
+	padding: 20px;
+}
+
+form {
+	background-color: #CACACA;
+}
+
+input {
+	width: 40%;
+	margin: 10px 20px;
+}
+
+label {
+	margin: 10px 20px;
+	font-weight: bold;
+}
